@@ -82,11 +82,11 @@ accuracy
 
 
 ## Prediction of y:
-![image](https://github.com/harini1006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/113497405/8f3a2d63-9aa6-4da2-95c4-d53b87fde998)
+![image](https://github.com/user-attachments/assets/afb94e75-77da-4a4f-9eb6-009ed73fc17c)
 
 
 ## Accuracy:
-![image](https://github.com/harini1006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/113497405/d1dcce16-dc32-4ec2-a042-ce25bee461da)
+![image](https://github.com/user-attachments/assets/676400a7-8dfb-4bf5-8c7a-6be670f6eee9)
 
 
 ## Result:
